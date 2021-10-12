@@ -51,5 +51,13 @@ and this should be the O/P
   Home
   http://localhost:3000
   
+  
+  ![image](https://user-images.githubusercontent.com/10427100/136961070-8d85c916-feb9-4802-9898-d67de29dd46c.png)
+
+  
   ![image](https://user-images.githubusercontent.com/10427100/136960597-5e56a3e4-adbf-4a04-a9a9-35916981f140.png)
+  
+  
+ ![image](https://user-images.githubusercontent.com/10427100/136960900-3c04614a-ff52-4657-b3d5-8e95ee1bc45f.png)
+
 
