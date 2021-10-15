@@ -11,7 +11,7 @@ const renderposts = async () => {
         <h2>${element.title}</h2>
         <p><small>${element.likes} likes </small></p>
         <p>${element.body}</p>
-        <a href="/details.html">read more...</a>
+        <a href="/details.html?id=${element.id}">read more...</a>
         </div>
         `
     });
